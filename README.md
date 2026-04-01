@@ -1,4 +1,4 @@
-# NGUYỄN ANH KHÔI
+# KHÔI NGUYỄN 
 
 ### Frontend Developer (Next.js / React)
 
