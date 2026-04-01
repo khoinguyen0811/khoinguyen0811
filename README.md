@@ -1,5 +1,5 @@
 # KHÔI NGUYỄN 
-<p align="left"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=FRONTEND+DEVELOPER" alt="Typing SVG" /> </p>
+<p align="left"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=FRONTEND+DEVELOPER" alt="Typing SVG" /> </p>
 ### Frontend Developer (Next.js / React)
 
 ---
