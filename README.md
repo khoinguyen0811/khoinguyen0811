@@ -6,14 +6,7 @@
 
 ## 👨‍💻 Giới thiệu
 
-Tôi là Khôi, sinh viên năm cuối chuyên ngành Lập trình Web tại **FPT Polytechnic**. Với nền tảng vững chắc về HTML, CSS, JavaScript và TypeScript, tôi hiện đang tập trung phát triển các ứng dụng web hiện đại, tối ưu hiệu suất và nâng cao trải nghiệm người dùng bằng **Next.js** và **React**.
-
-| **Thông tin cá nhân** | **Học vấn** |
-| :--- | :--- |
-| 📍 TP. Hồ Chí Minh | 🎓 **Trường cao đẳng FPT Polytechnic** |
-| 📞 +84 393 159 478 | 📚 Chuyên ngành: Lập trình web |
-| 📧 khoinguyen8116@gmail.com | 📅 Dự kiến tốt nghiệp: 8/2026 |
-| 🔗 [GitHub Profile](https://github.com/khoinguyen0811) | 📝 GPA: 3.47 |
+Tôi là Khôi. Với nền tảng vững chắc về HTML, CSS, JavaScript và TypeScript, tôi hiện đang tập trung phát triển các ứng dụng web hiện đại, tối ưu hiệu suất và nâng cao trải nghiệm người dùng bằng **Next.js** và **React**.
 
 ---
 
@@ -46,39 +39,10 @@ Tôi là Khôi, sinh viên năm cuối chuyên ngành Lập trình Web tại **F
 
 ---
 
-## 🚀 Dự án tiêu biểu
+## 📫 Thông tin liên hệ
 
-### 1. Xây dựng website nhắn tin theo thời gian thực (ChatZ)
+Tôi luôn sẵn sàng kết nối và thảo luận về các cơ hội hợp tác hoặc dự án công nghệ mới:
 
-* **Mô tả:** Xây dựng một ứng dụng chat web cho phép người dùng nhắn tin cá nhân, tạo nhóm, kết bạn và chia sẻ file.
-* **Thời gian:** 01/2026 - 02/2026
-* **Công nghệ:** TypeScript, Tailwind, Socket.io, Node.js, Express.js, MongoDB.
-* **Kỹ năng đạt được:** Hiểu sâu về cơ chế WebSocket, thiết kế giao diện Real-time đẹp mắt, quản lý CSDL NoSQL.
-* 🔗 [Xem Code trên GitHub](https://github.com/khoinguyen0811/_rtchat)
-
-### 2. Xây dựng website bán đồng hồ thương mại điện tử (Rudo Watch)
-
-* **Mô tả:** Website thương mại điện tử cho phép người dùng xem sản phẩm, quản lý giỏ hàng, thanh toán online và hỗ trợ qua Chatbot.
-* **Thời gian:** 11/2025 - 12/2025
-* **Vai trò:** Team member (3 người).
-* **Nhiệm vụ:** Tham gia thiết kế diagram (Use Case, ERD), code giao diện, xử lý luồng logic giỏ hàng và thanh toán.
-* 🔗 [Xem Code trên GitHub](https://github.com/binhphanbp/rudo-watch-ecommerce)
-
----
-
-## 🎯 Mục tiêu nghề nghiệp
-
-Tôi luôn đặt ra các cột mốc cụ thể để không ngừng phát triển:
-
-* **Ngắn hạn (6 tháng):** Hoàn thiện kỹ năng Frontend thực chiến và tìm kiếm cơ hội thực tập tại một môi trường chuyên nghiệp.
-* **1 năm tới:** Trở thành một nhân viên chính thức (Frontend Developer), đóng góp giá trị thực cho các dự án.
-* **Dài hạn (2 năm):** Phát triển thành một Frontend Developer vững chuyên môn, tối ưu hiệu suất và nâng cao trải nghiệm người dùng trên các hệ thống lớn.
-
----
-
-### **Kết nối với tôi:**
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](LINK_LINKEDIN_CUA_BAN_NEU_CO) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khoinguyen8116@gmail.com)
-
----
-*Cảm ơn bạn đã ghé thăm Profile của tôi!*
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khoinguyen8116@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/nguyen.khoi.797562)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/khoi_8116/)
