@@ -1,5 +1,5 @@
 # KHÔI NGUYỄN 
-
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=KHOI+NGUYEN;FRONTEND+DEVELOPER" alt="Typing SVG" /> </p>
 ### Frontend Developer (Next.js / React)
 
 ---
@@ -38,9 +38,6 @@ Tôi là Khôi. Với nền tảng vững chắc về HTML, CSS, JavaScript và 
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socketdotio&logoColor=white)
 
 ---
-<p align="center">
-  <img src="https://raw.githubusercontent.com/khoinguyen0811/khoinguyen0811/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
-</p>
 ## 📫 Thông tin liên hệ
 
 Tôi luôn sẵn sàng kết nối và thảo luận về các cơ hội hợp tác hoặc dự án công nghệ mới:
