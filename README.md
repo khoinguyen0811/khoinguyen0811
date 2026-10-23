@@ -1,9 +1,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8B5CF6,100:EC4899&height=200&section=header&text=Kh%C3%B4i%20Nguy%E1%BB%85n&fontSize=58&fontColor=ffffff&fontAlignY=36&desc=Frontend%20Developer%20%E2%80%A2%20Ho%20Chi%20Minh%20City&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2600&pause=900&color=8B5CF6&center=true&vCenter=true&width=560&lines=Frontend+Developer;Next.js+%7C+React+%7C+TypeScript;T%E1%BB%91i+%C6%B0u+hi%E1%BB%87u+su%E1%BA%A5t%2C+ch%C4%83m+ch%C3%BAt+UI%2FUX;Code+ch%E1%BA%A1y+%C4%91%C6%B0%E1%BB%A3c+l%C3%A0+t%E1%BB%91t%2C+ch%E1%BA%A1y+nhanh+m%E1%BB%9Bi+l%C3%A0+xong" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,70:000000,100:FFFFFF&height=200&section=header&text=Kh%C3%B4i%20Nguy%E1%BB%85n&fontSize=58&fontColor=ffffff&fontAlignY=36&desc=Frontend%20Developer%20%E2%80%A2%20Ho%20Chi%20Minh%20City&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
 
 <br/>
 
@@ -178,4 +176,5 @@ Mình luôn sẵn sàng trò chuyện về dự án mới, cơ hội hợp tác,
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,50:8B5CF6,100:6366F1&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,30:FFFFFF,100:000000&height=120&section=footer" width="100%" />
+****
