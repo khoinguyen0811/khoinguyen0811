@@ -1,7 +1,6 @@
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,70:000000,100:FFFFFF&height=200&section=header&text=Kh%C3%B4i%20Nguy%E1%BB%85n&fontSize=58&fontColor=ffffff&fontAlignY=36&desc=Frontend%20Developer%20%E2%80%A2%20Ho%20Chi%20Minh%20City&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:000000,100:000000&height=200&section=header&text=Kh%C3%B4i%20Nguy%E1%BB%85n&fontSize=58&fontColor=ffffff&fontAlignY=36&desc=Frontend%20Developer%20%E2%80%A2%20Ho%20Chi%20Minh%20City&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
 
 <br/>
 
@@ -18,9 +17,9 @@
 
 ```ts
 const khoi = {
-  role:      "Frontend Developer",
-  base:      "Ho Chi Minh City, Vietnam",
-  daily:     ["Next.js", "React", "TypeScript", "TailwindCSS"],
+  role: "Frontend Developer",
+  base: "Ho Chi Minh City, Vietnam",
+  daily: ["Next.js", "React", "TypeScript", "TailwindCSS"],
   alsoSpeak: ["Node.js", "Express", "PHP", "MySQL", "MongoDB"],
   caresAbout: [
     "Hiệu suất: ít JS hơn, tải nhanh hơn",
@@ -101,20 +100,6 @@ const khoi = {
 
 </div>
 
-### Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/khoinguyen0811/khoinguyen0811/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/khoinguyen0811/khoinguyen0811/output/github-snake.svg" />
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/khoinguyen0811/khoinguyen0811/output/github-snake.svg" />
-</picture>
-
-</div>
-
----
-
 ## Một vài dự án
 
 <div align="center">
@@ -143,38 +128,4 @@ const khoi = {
 
 </div>
 
----
-
-## Kết nối với mình
-
-<div align="center">
-
-Mình luôn sẵn sàng trò chuyện về dự án mới, cơ hội hợp tác, hoặc đơn giản là bàn xem `flex` hay `grid` hợp hơn.
-
-<br/>
-
-<a href="mailto:khoinguyen8116@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-</a>
-<a href="https://www.facebook.com/nguyen.khoi.797562">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-</a>
-<a href="https://www.instagram.com/khoi_8116/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-</a>
-<a href="https://github.com/khoinguyen0811">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-> *"Code chạy được là tốt. Chạy nhanh, dễ đọc, dễ sửa — lúc đó mới xong."*
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,30:FFFFFF,100:000000&height=120&section=footer" width="100%" />
-****
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,50:FFFFFF,100:FFFFFF&height=120&section=footer" width="100%" />
