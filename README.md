@@ -30,32 +30,6 @@ const khoi = {
 } as const;
 ```
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### Mình đang làm gì
-
-- Xây dựng ứng dụng web hiện đại với **Next.js** và **React**
-- Biến thiết kế Figma thành giao diện chạy mượt trên mọi thiết bị
-- Đào sâu **TypeScript** để code an toàn hơn, ít bug runtime hơn
-- Tối ưu tốc độ tải và trải nghiệm người dùng
-
-</td>
-<td width="50%" valign="top">
-
-### Vài điều về mình
-
-- Thích cái cảm giác Lighthouse nhảy lên **90+**
-- Có thể ngồi 30 phút chỉ để chỉnh một cái `border-radius`
-- Tin rằng animation tốt là animation người dùng **không nhận ra**
-- Luôn sẵn sàng nhận dự án mới để học thêm thứ mới
-
-</td>
-</tr>
-</table>
-
----
 
 ## Bộ đồ nghề
 
