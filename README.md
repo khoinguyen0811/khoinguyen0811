@@ -1,47 +1,181 @@
-# KHÔI NGUYỄN 
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&left=true&vCenter=true&width=300&lines=FRONTEND+DEVELOPER" alt="Typing SVG" />
-</p>>
----
 
-## 👨‍💻 Giới thiệu
+<div align="center">
 
-Tôi là Khôi. Với nền tảng vững chắc về HTML, CSS, JavaScript và TypeScript, tôi hiện đang tập trung phát triển các ứng dụng web hiện đại, tối ưu hiệu suất và nâng cao trải nghiệm người dùng bằng **Next.js** và **React**.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8B5CF6,100:EC4899&height=200&section=header&text=Kh%C3%B4i%20Nguy%E1%BB%85n&fontSize=58&fontColor=ffffff&fontAlignY=36&desc=Frontend%20Developer%20%E2%80%A2%20Ho%20Chi%20Minh%20City&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2600&pause=900&color=8B5CF6&center=true&vCenter=true&width=560&lines=Frontend+Developer;Next.js+%7C+React+%7C+TypeScript;T%E1%BB%91i+%C6%B0u+hi%E1%BB%87u+su%E1%BA%A5t%2C+ch%C4%83m+ch%C3%BAt+UI%2FUX;Code+ch%E1%BA%A1y+%C4%91%C6%B0%E1%BB%A3c+l%C3%A0+t%E1%BB%91t%2C+ch%E1%BA%A1y+nhanh+m%E1%BB%9Bi+l%C3%A0+xong" alt="Typing SVG" />
 
-## 🛠️ Kỹ năng chuyên môn
+<br/>
 
-### **Frontend**
+<img src="https://komarev.com/ghpvc/?username=khoinguyen0811&label=L%C6%B0%E1%BB%A3t%20gh%C3%A9%20th%C4%83m&color=8B5CF6&style=flat-square" alt="profile views" />
+<img src="https://img.shields.io/badge/Based%20in-Ho%20Chi%20Minh%20City-EC4899?style=flat-square&logo=googlemaps&logoColor=white" alt="location" />
+<img src="https://img.shields.io/badge/Focus-Next.js%20%2B%20React-6366F1?style=flat-square&logo=nextdotjs&logoColor=white" alt="focus" />
+<img src="https://img.shields.io/badge/Open%20to-Collaboration-22C55E?style=flat-square&logo=handshake&logoColor=white" alt="open to work" />
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### **Backend & Database**
-
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### **Công cụ & Khác**
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socketdotio&logoColor=white)
+</div>
 
 ---
-## 📫 Thông tin liên hệ
 
-Tôi luôn sẵn sàng kết nối và thảo luận về các cơ hội hợp tác hoặc dự án công nghệ mới:
+## Xin chào, mình là Khôi
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khoinguyen8116@gmail.com)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/nguyen.khoi.797562)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/khoi_8116/)
+```ts
+const khoi = {
+  role:      "Frontend Developer",
+  base:      "Ho Chi Minh City, Vietnam",
+  daily:     ["Next.js", "React", "TypeScript", "TailwindCSS"],
+  alsoSpeak: ["Node.js", "Express", "PHP", "MySQL", "MongoDB"],
+  caresAbout: [
+    "Hiệu suất: ít JS hơn, tải nhanh hơn",
+    "UI/UX: chi tiết nhỏ tạo ra cảm giác xịn",
+    "Code sạch: người sau đọc không phải chửi",
+  ],
+  currentlyLearning: "Kiến trúc ứng dụng web quy mô lớn",
+} as const;
+```
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Mình đang làm gì
+
+- Xây dựng ứng dụng web hiện đại với **Next.js** và **React**
+- Biến thiết kế Figma thành giao diện chạy mượt trên mọi thiết bị
+- Đào sâu **TypeScript** để code an toàn hơn, ít bug runtime hơn
+- Tối ưu tốc độ tải và trải nghiệm người dùng
+
+</td>
+<td width="50%" valign="top">
+
+### Vài điều về mình
+
+- Thích cái cảm giác Lighthouse nhảy lên **90+**
+- Có thể ngồi 30 phút chỉ để chỉnh một cái `border-radius`
+- Tin rằng animation tốt là animation người dùng **không nhận ra**
+- Luôn sẵn sàng nhận dự án mới để học thêm thứ mới
+
+</td>
+</tr>
+</table>
+
+---
+
+## Bộ đồ nghề
+
+<div align="center">
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&theme=dark" alt="frontend skills" />
+
+**Backend & Database**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,mysql,mongodb&theme=dark" alt="backend skills" />
+
+**Công cụ**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,vercel&theme=dark" alt="tools" />
+
+</div>
+
+---
+
+## Nhịp code của mình
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=khoinguyen0811&show_icons=true&hide_border=true&border_radius=12&theme=tokyonight&bg_color=1A1B27&title_color=8B5CF6&icon_color=EC4899&text_color=A9B1D6&include_all_commits=true&custom_title=Th%E1%BB%91ng%20k%C3%AA%20GitHub" alt="github stats" />
+<img height="165" src="https://streak-stats.demolab.com?user=khoinguyen0811&hide_border=true&border_radius=12&theme=tokyonight&background=1A1B27&ring=8B5CF6&fire=EC4899&currStreakLabel=8B5CF6&locale=vi" alt="streak" />
+
+<br/><br/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khoinguyen0811&layout=compact&langs_count=8&hide_border=true&border_radius=12&theme=tokyonight&bg_color=1A1B27&title_color=8B5CF6&text_color=A9B1D6&custom_title=Ng%C3%B4n%20ng%E1%BB%AF%20d%C3%B9ng%20nhi%E1%BB%81u%20nh%E1%BA%A5t" alt="top languages" />
+
+</div>
+
+---
+
+## Biểu đồ đóng góp
+
+<div align="center">
+
+<img src="https://ghchart.rshah.org/8B5CF6/khoinguyen0811" width="90%" alt="contribution chart" />
+
+</div>
+
+### Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/khoinguyen0811/khoinguyen0811/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/khoinguyen0811/khoinguyen0811/output/github-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/khoinguyen0811/khoinguyen0811/output/github-snake.svg" />
+</picture>
+
+</div>
+
+---
+
+## Một vài dự án
+
+<div align="center">
+
+<a href="https://github.com/khoinguyen0811/Tastecraft">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=khoinguyen0811&repo=Tastecraft&hide_border=true&border_radius=12&theme=tokyonight&bg_color=1A1B27&title_color=8B5CF6&text_color=A9B1D6&icon_color=EC4899" alt="Tastecraft" />
+</a>
+<a href="https://github.com/khoinguyen0811/Qualimeal">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=khoinguyen0811&repo=Qualimeal&hide_border=true&border_radius=12&theme=tokyonight&bg_color=1A1B27&title_color=8B5CF6&text_color=A9B1D6&icon_color=EC4899" alt="Qualimeal" />
+</a>
+
+<br/>
+
+<a href="https://github.com/khoinguyen0811/FE-QuaTangTinhTe">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=khoinguyen0811&repo=FE-QuaTangTinhTe&hide_border=true&border_radius=12&theme=tokyonight&bg_color=1A1B27&title_color=8B5CF6&text_color=A9B1D6&icon_color=EC4899" alt="FE-QuaTangTinhTe" />
+</a>
+<a href="https://github.com/khoinguyen0811/_rtchat">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=khoinguyen0811&repo=_rtchat&hide_border=true&border_radius=12&theme=tokyonight&bg_color=1A1B27&title_color=8B5CF6&text_color=A9B1D6&icon_color=EC4899" alt="_rtchat" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/khoinguyen0811?tab=repositories">
+  <img src="https://img.shields.io/badge/Xem%20t%E1%BA%A5t%20c%E1%BA%A3%20repository-6366F1?style=for-the-badge&logo=github&logoColor=white" alt="all repos" />
+</a>
+
+</div>
+
+---
+
+## Kết nối với mình
+
+<div align="center">
+
+Mình luôn sẵn sàng trò chuyện về dự án mới, cơ hội hợp tác, hoặc đơn giản là bàn xem `flex` hay `grid` hợp hơn.
+
+<br/>
+
+<a href="mailto:khoinguyen8116@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+<a href="https://www.facebook.com/nguyen.khoi.797562">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+</a>
+<a href="https://www.instagram.com/khoi_8116/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+<a href="https://github.com/khoinguyen0811">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+> *"Code chạy được là tốt. Chạy nhanh, dễ đọc, dễ sửa — lúc đó mới xong."*
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,50:8B5CF6,100:6366F1&height=120&section=footer" width="100%" />
