@@ -64,42 +64,5 @@ const khoi = {
 
 </div>
 
----
-
-## Biểu đồ đóng góp
-
-<div align="center">
-
-<img src="https://ghchart.rshah.org/8B5CF6/khoinguyen0811" width="90%" alt="contribution chart" />
-
-</div>
-
-## Một vài dự án
-
-<div align="center">
-
-<a href="https://github.com/khoinguyen0811/Tastecraft">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=khoinguyen0811&repo=Tastecraft&hide_border=true&border_radius=12&theme=tokyonight&bg_color=1A1B27&title_color=8B5CF6&text_color=A9B1D6&icon_color=EC4899" alt="Tastecraft" />
-</a>
-<a href="https://github.com/khoinguyen0811/Qualimeal">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=khoinguyen0811&repo=Qualimeal&hide_border=true&border_radius=12&theme=tokyonight&bg_color=1A1B27&title_color=8B5CF6&text_color=A9B1D6&icon_color=EC4899" alt="Qualimeal" />
-</a>
-
-<br/>
-
-<a href="https://github.com/khoinguyen0811/FE-QuaTangTinhTe">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=khoinguyen0811&repo=FE-QuaTangTinhTe&hide_border=true&border_radius=12&theme=tokyonight&bg_color=1A1B27&title_color=8B5CF6&text_color=A9B1D6&icon_color=EC4899" alt="FE-QuaTangTinhTe" />
-</a>
-<a href="https://github.com/khoinguyen0811/_rtchat">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=khoinguyen0811&repo=_rtchat&hide_border=true&border_radius=12&theme=tokyonight&bg_color=1A1B27&title_color=8B5CF6&text_color=A9B1D6&icon_color=EC4899" alt="_rtchat" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/khoinguyen0811?tab=repositories">
-  <img src="https://img.shields.io/badge/Xem%20t%E1%BA%A5t%20c%E1%BA%A3%20repository-6366F1?style=for-the-badge&logo=github&logoColor=white" alt="all repos" />
-</a>
-
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,50:FFFFFF,100:FFFFFF&height=120&section=footer" width="100%" />
