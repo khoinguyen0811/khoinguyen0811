@@ -21,12 +21,7 @@ const khoi = {
   base: "Ho Chi Minh City, Vietnam",
   daily: ["Next.js", "React", "TypeScript", "TailwindCSS"],
   alsoSpeak: ["Node.js", "Express", "PHP", "MySQL", "MongoDB"],
-  caresAbout: [
-    "Hiệu suất: ít JS hơn, tải nhanh hơn",
-    "UI/UX: chi tiết nhỏ tạo ra cảm giác xịn",
-    "Code sạch: người sau đọc không phải chửi",
-  ],
-  currentlyLearning: "Kiến trúc ứng dụng web quy mô lớn",
+  currentlyLearning: "Kiến trúc ứng dụng web",
 } as const;
 ```
 
